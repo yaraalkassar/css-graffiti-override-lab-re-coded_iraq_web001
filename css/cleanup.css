@@ -20,11 +20,11 @@
 body div#wall div.parent div > #tag-7.slick {
   display: none;
 }
-
+ 
  body {
    display: none;
  }
-
+ 
  div#wall div.parent div:last-child div#tag-6 {
    display: none;
  }
